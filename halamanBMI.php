@@ -36,22 +36,7 @@ class bMIPasien {
     }
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>AdminLTE 3 | Dashboard 3</title>
 
-  <!-- Google Font: Source Sans Pro -->
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
-  <!-- Font Awesome Icons -->
-  <link rel="stylesheet" href="plugins/fontawesome-free/css/all.min.css">
-  <!-- IonIcons -->
-  <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
-  <!-- Theme style -->
-  <link rel="stylesheet" href="dist/css/adminlte.min.css">
-</head>
 <!--
 `body` tag options:
 
@@ -61,8 +46,7 @@ class bMIPasien {
   * sidebar-collapse
   * sidebar-mini
 -->
-<body class="hold-transition sidebar-mini">
-<div class="wrapper">
+
   <!-- Navbar -->
   <nav class="main-header navbar navbar-expand navbar-white navbar-light">
     <!-- Left navbar links -->
@@ -248,15 +232,27 @@ class bMIPasien {
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="./index.html" class="nav-link">
+                <a href="https://kreasi.nurulfikri.ac.id/jaki21252ti/praktikum01/" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Dashboard 1</p>
+                  <p>Praktikum 1</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="./index2.html" class="nav-link">
+                <a href="https://kreasi.nurulfikri.ac.id/jaki21252ti/praktikum02/" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Dashboard 2</p>
+                  <p>Praktikum 2</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="https://kreasi.nurulfikri.ac.id/jaki21252ti/praktikum03/" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Praktikum 3</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="https://kreasi.nurulfikri.ac.id/jaki21252ti/praktikum04/" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Praktikum 4</p>
                 </a>
               </li>
 
@@ -394,8 +390,7 @@ class bMIPasien {
 <script src="dist/js/demo.js"></script>
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
 <script src="dist/js/pages/dashboard3.js"></script>
-</body>
-</html>
+
 
 
 
