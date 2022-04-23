@@ -248,15 +248,27 @@ class bMIPasien {
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="./index.html" class="nav-link">
+                <a href="https://kreasi.nurulfikri.ac.id/jaki21252ti/praktikum01/" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Dashboard 1</p>
+                  <p>Praktikum 1</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="./index2.html" class="nav-link">
+                <a href="https://kreasi.nurulfikri.ac.id/jaki21252ti/praktikum02/" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Dashboard 2</p>
+                  <p>Praktikum 2</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="https://kreasi.nurulfikri.ac.id/jaki21252ti/praktikum03/" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Praktikum 3</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="https://kreasi.nurulfikri.ac.id/jaki21252ti/praktikum04/" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Praktikum 4</p>
                 </a>
               </li>
 
